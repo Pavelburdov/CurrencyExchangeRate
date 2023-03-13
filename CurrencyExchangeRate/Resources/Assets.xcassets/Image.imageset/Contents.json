@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "minimalistic-still-life-arrangement-with-cryptocurrency 1.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "minimalistic-still-life-arrangement-with-cryptocurrency.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
